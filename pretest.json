@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A Molding is a process in which….",
+      "answers": {
+        "a": "Mold is filled with a liquid and hardens",
+        "b": "Mold is filled with a solid and liquefied",
+        "c": "Mold is unfilled with a liquid and does nothing",
+        "d": "Mold is filled with a gas and vaporize"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Blow molding is a process in which only..",
+      "answers": {
+        "a": "Solid plastic parts are formed",
+        "b": "Only hollow plastic parts are formed",
+        "c": "Only thin plastic sheets are formed",
+        "d": "Is not a plastic molding process"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

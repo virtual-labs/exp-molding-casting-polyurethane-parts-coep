@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Molds of Injection molding is made from",
+      "answers": {
+        "a": "Tool steel",
+        "b": "Stainless steel",
+        "c": "Aluminum",
+        "d": "All of above"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In casting process molds are made up of",
+      "answers": {
+        "a": "Steel",
+        "b": "Wood",
+        "c": "Sand",
+        "d": "All of above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In Rubber compound molding",
+      "answers": {
+        "a": "Only Silicon compound is used",
+        "b": "Only Rubber compound is used",
+        "c": "Only Urethane compound is used",
+        "d": "Both Rubber and urethane compound is used"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
