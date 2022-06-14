@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Molds of Injection molding is made from",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Tool steel",
+        "b": "Stainless steel",
+        "c": "Aluminum",
+        "d": "All of above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In casting process molds are made up of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Steel",
+        "b": "Wood",
+        "c": "Sand",
+        "d": "All of above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In Rubber compound molding",
+      "answers": {
+        "a": "Only Silicon compound is used",
+        "b": "Only Rubber compound is used",
+        "c": "Only Urethane compound is used",
+        "d": "Both Rubber and urethane compound is used"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
