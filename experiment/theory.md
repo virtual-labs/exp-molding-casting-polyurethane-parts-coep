@@ -115,13 +115,13 @@ Basic process There are six steps in this process:
 4) Fill the mold cavity with molten metal.
 5) Allow the metal to cool.
 
-<center><img src="images/img24.JPG" title="" /></center>
+<center><img src="images/img25.JPG" title="" /></center>
 
 **Investment Casting :**
 
 Investment casting is an industrial process based on and also called lost-wax casting, one of the oldest known metal-forming techniques. From 5,000 years ago, when beeswax formed the pattern, to today’s high-technology waxes, refractory materials and specialist alloys, the castings allow the production of components with accuracy, repeatability, versatility and integrity in a variety of metals and high-performance alloys. Lost foam casting is a modern form of investment casting that eliminates certain steps in the process.
 The process is generally used for small castings, but has been used to produce complete aircraft door frames, steel castings of up to 300 kg (660 lbs) and aluminium castings of up to 30 kg (66 lbs). It is generally more expensive per unit than die casting or sand casting, but has lower equipment costs. It can produce complicated shapes that would be difficult or impossible with die casting, yet like that process, it requires little surface finishing and only minor machining.
 
-<center><img src="images/img25.JPG" title="" /></center>
+<center><img src="images/img26.JPG" title="" /></center>
 
 Application of investment casting: Investment casting is used in the aerospace and power generation industries to produce turbine blades with complex shapes or cooling systems. Blades produced by investment casting can include single-crystal (SX), directionally solidified (DS), or conventional equal axed blades. Investment casting is also widely used by firearms manufacturers to fabricate firearm receivers, triggers, hammers, and other precision parts at low cost. Other industries that use standard investment-cast parts include military, medical, commercial and automotive.
